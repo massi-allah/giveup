@@ -1,0 +1,8 @@
+requests
+schedule
+pymongo
+bs4
+retrying
+python-dotenv
+imgurpython
+aiogram
